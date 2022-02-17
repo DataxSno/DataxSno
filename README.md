@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+ <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/97816360/154427270-f90fba01-9c15-425c-8266-ed999a12a2e3.mp4">
+</p>
 
-<!--
-**DataxSno/DataxSno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1> Hi there, welcome to the DataVerse  🌌 </h1>
 
-- 🔭 I’m currently working on creating my first trading algorithm
-- 🌱 I’m currently learning Python, Linux, AWS and C#
-- 👯 I’m looking to collaborate on blockchain projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+https://user-images.githubusercontent.com/97816360/154427270-f90fba01-9c15-425c-8266-ed999a12a2e3.mp4
+
+
+
+
+
+👋🏿 I'm Sno, lover of all things Data 
+Currently transitioning into your next favorite techie 🤓
+
+I'm just enjoying my journey; learning new skills, meeting amazing people and building cool things. 😎
+
+You can find me:
+
+
+
+- 🌱 I’m learning Python, Linux, AWS, C# 📚
+- 👯 I’m looking to collaborate on blockchain projects 🔗
+- 🔭 I’m currently working on creating my first trading algorithm 🥶
+
+
+Here you will find a collection of projects to enjoy at your leisure ✨
